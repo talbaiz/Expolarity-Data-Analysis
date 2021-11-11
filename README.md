@@ -5,6 +5,7 @@ lava is the perfect fully responsive Ecommerce Webflow template for coffee shops
 From the personalities in which they exist to the communities that grow our coffee beans, we are committed to investing and creating opportunities to positively impact people's lives. Exchanging groups, helping at work, bringing activism into work, bringing activism into individuals - all this is an axe part of our identity as a sustainable company. As a publicly traded company, Starbucks believes in striking a balance. between business and social amenities
 
 # Question / Need :
+
 Is LAVA so expensive?
 
 Is drinking LAVA health?
@@ -16,11 +17,9 @@ Is LAVA comfortable or not?
 Are the staff and Services good ?
 
 
+# Feautres:
 
-
-# Features:
-
-Field name	Describtion
+# Filed Name: Description
 
 shop_name: coffee shop's name 
 
