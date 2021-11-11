@@ -6,38 +6,43 @@ From the personalities in which they exist to the communities that grow our coff
 
 # Question / Need :
 Is LAVA so expensive?
+
 Is drinking LAVA health?
+
 How long can I stay in LAVA?
+
 Is LAVA comfortable or not?
+
 Are the staff and Services good ?
 
 
 
 
 # Features:
+
 Field name	Describtion
-shop_name
-	coffee shop's name 
-rating
-	Coffe shop's rating 
-numbers_of_rating 	 number of ratings for each coffee shop
- Price	how expensive is the coffee shop - 1 is inexpensive
-shop_type
-	coffee shop's type. Either cafe or coffee shop 
-key_words 
-	coffee shop's style
-Address	 coffee shop's address
+
+shop_name: coffee shop's name 
+
+rating: Coffe shop's rating
+
+numbers_of_rating :number of ratings for each coffee shop
+
+Price: how expensive is the coffee shop - 1 is inexpensive
+ 
+shop_type: coffee shop's type. Either cafe or coffee shop
+
+key_words :coffee shop's style
+
+Address	:coffee shop's address
 
 
 
 # Tools:
 
-Technologies :
-python, SQL , Jupyter notebook, SQL, SQLite 
+Technologies: python, SQL , Jupyter notebook, SQL, SQLite 
 
-Libraries:
-( math , panda , Numpy , Matplotlib, SQLAlchemy) 
+Libraries:( math , panda , Numpy , Matplotlib, SQLAlchemy) 
 
-Presentation: 
-PowerPoint
+Presentation: PowerPoint
 
