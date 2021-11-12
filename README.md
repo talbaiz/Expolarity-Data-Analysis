@@ -1,4 +1,4 @@
-![alt text](./LAVACafeLogo.jpeg)
+![alt text](./LAVACafeLogo.jpeg) {:height="20px" width="20px"}
 # LAVA_CoffeeShop
 
 # Data Descrbtion:
