@@ -1,3 +1,5 @@
+
+![alt text] (./LAVACafeLogo.jpeg)
 # LAVA_CoffeeShop
 
 # Data Descrbtion:
