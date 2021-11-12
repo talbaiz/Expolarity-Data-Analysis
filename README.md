@@ -1,4 +1,5 @@
-<img src="https://github.com/talbaiz/LAVA_CoffeeShop/blob/main/LAVACafeLogo.jpeg" width="250" height="200" />
+<img src="https://github.com/talbaiz/LAVA_CoffeeShop/blob/main/LAVACafeLogo.jpeg" width="300" height="250" />
+
 # LAVA_CoffeeShop
 
 # Data Descrbtion:
