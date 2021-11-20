@@ -21,21 +21,16 @@ Are the staff and Services good ?
 
 # Feautres:
 
- Filed Name: Describtion                                       
-
-shop_name: coffee shop's name
-
-rating: Coffe shop's rating 
-
-numbers_of_Rating: number of ratings for each coffee shop  
-
-Price: how expensive is the coffee shop - 1 is inexpensive
-
-shop_type: coffee shop's type. Either cafe or coffee shop 
-
-key_words :coffee shop's style
-
-Address	: coffee shop's address                              
+| Field Name            | Description                                                                     |
+|-----------------------|---------------------------------------------------------------------------------|
+| Shop Name             | coffee shop's name                                                              |
+| Rating                | Coffee shop's rating                                                            |
+| Numbers of Rating     | number of ratings for each coffee shop                                          |
+| Price                 | how expensive is the coffee shop - 1 is inexpensive                             |
+| Shop type             | coffee shop's type. Either cafe or coffee shop                                  |
+| Key words             | coffee shop's style                                                             |
+| Address               | coffee shop's address                                                           |
+                       
 
 
 
