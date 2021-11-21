@@ -39,7 +39,7 @@ there are 2 columns we remove it from the dataset
 # Communication:
 
 
-<img src="https://github.com/talbaiz/LAVA_CoffeeShop/blob/main/download.png"/>
+<img src="https://github.com/talbaiz/LAVA_CoffeeShop/blob/main/Bar.png"/>
 
 <img src="https://github.com/talbaiz/LAVA_CoffeeShop/blob/main/bar2.png"/>
 
