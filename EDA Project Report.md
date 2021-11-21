@@ -2,7 +2,7 @@
 <img src="https://github.com/talbaiz/LAVA_CoffeeShop/blob/main/LAVACafeLogo.jpeg" width="450" height="350" align="center">
 
 
-## EDA Project Final Report (LAVA cafe)
+## EDA Project Report (LAVA cafe)
 
 # Abstract:
 
