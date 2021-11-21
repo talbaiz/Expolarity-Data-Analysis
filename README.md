@@ -26,7 +26,7 @@ Are the staff and Services good ?
 | Shop Name             | coffee shop's name                                                              |
 | Rating                | Coffee shop's rating                                                            |
 | Numbers of Rating     | number of ratings for each coffee shop                                          |
-| Price                 | how expensive is the coffee shop - 1 is inexpensive                             |
+| Price                 | how expensive is the coffee shop - 0 is inexpensive                             |
 | Shop type             | coffee shop's type. Either cafe or coffee shop                                  |
 | Key words             | coffee shop's style                                                             |
 | Address               | coffee shop's address                                                           |
