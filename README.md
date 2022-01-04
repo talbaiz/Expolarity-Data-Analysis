@@ -1,4 +1,4 @@
-<img src="https://github.com/talbaiz/LAVA_CoffeeShop/blob/main/LAVACafeLogo.jpeg" width="300" height="250" />
+<img src="https://github.com/talbaiz/Expolarity-Data-Analysis/blob/main/image/LAVACafeLogo.jpeg" width="300" height="250" />
 
 # LAVA_CoffeeShop
 
