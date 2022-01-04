@@ -1,3 +1,6 @@
+
+## Expolarity Data Analysis
+
 <img src="https://github.com/talbaiz/Expolarity-Data-Analysis/blob/main/image/LAVACafeLogo.jpeg" width="300" height="250" />
 
 # LAVA Cafe
