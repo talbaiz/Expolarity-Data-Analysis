@@ -1,5 +1,5 @@
 
-<img src="https://github.com/talbaiz/LAVA_CoffeeShop/blob/main/LAVACafeLogo.jpeg" width="450" height="350" align="center">
+<img src="https://github.com/talbaiz/Expolarity-Data-Analysis/blob/main/image/LAVACafeLogo.jpeg" width="450" height="350" align="center">
 
 
 ## EDA Project Report (LAVA cafe)
@@ -39,7 +39,7 @@ there are 2 columns we remove it from the dataset
 # Communication:
 
 
-<img src="https://github.com/talbaiz/LAVA_CoffeeShop/blob/main/Bar.png"/>
+<img src="https://github.com/talbaiz/Expolarity-Data-Analysis/blob/main/image/Analysis1.png"/>
 
-<img src="https://github.com/talbaiz/LAVA_CoffeeShop/blob/main/bar2.png"/>
+<img src="https://github.com/talbaiz/Expolarity-Data-Analysis/blob/main/image/Analysis2.png"/>
 
