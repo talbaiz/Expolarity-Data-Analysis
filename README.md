@@ -1,6 +1,6 @@
 <img src="https://github.com/talbaiz/Expolarity-Data-Analysis/blob/main/image/LAVACafeLogo.jpeg" width="300" height="250" />
 
-# LAVA_CoffeeShop
+# LAVA Cafe
 
 # Data Descrbtion:
 lava is the perfect fully responsive Ecommerce Webflow template for coffee shops and roasteries. showcase the delicious coffee you offer in your coffee shop.
