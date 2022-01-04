@@ -3,7 +3,7 @@
 The goal of the project is to analyze Riyadh cafes based on people’s ratings of most cafes in Riyadh and based on these ratings we will establish a Lava coffee shop.
 
 
-![Rating&ShopName](https://github.com/talbaiz/LAVA_CoffeeShop/blob/main/Bar.png)
+![Rating&ShopName](https://github.com/talbaiz/Expolarity-Data-Analysis/blob/main/image/Analysis1.png)
 
 
 
